@@ -5,7 +5,8 @@ This is a full-stack React  application that allows users to track their  transa
 
 
 ## Project Overview
-The React  App is designed to help users keep track of their income and expenses. Users can add, edit, delete transactions, and view their financial data in the form of charts.
+The React  App is designed to help users keep track of their income and expenses. Users can add, edit, delete transactions, and view their financial data in the form of charts. their a file csv easily can export ill adding the colorswitcher theem for the color
+
 
 
 
