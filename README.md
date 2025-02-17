@@ -1,4 +1,4 @@
-# React Financial Tracker App with Firebase
+# React App with Firebase
 
 ## Project Description
 This is a full-stack React  application that allows users to track their  transactions. The app uses Firebase as the backend for data storage and authentication. It also incorporates Ant Design components for UI, Chart.js for data visualization, and CRUD operations on Firebase for managing financial records.
